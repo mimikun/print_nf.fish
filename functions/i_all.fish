@@ -1,0 +1,13 @@
+source i_cod.fish
+source i_dev.fish
+source i_fae.fish
+source i_fa.fish
+source i_iec.fish
+source i_logos.fish
+source i_material.fish
+source i_md.fish
+source i_oct.fish
+source i_ple.fish
+source i_pom.fish
+source i_seti.fish
+source i_weather.fish
